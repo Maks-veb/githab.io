@@ -1,0 +1,9 @@
+img {
+  max-width: 400px;
+  border-radius: 50%;
+  border-style: dashed;  
+}
+body{
+  background: green;
+
+}
